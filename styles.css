@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(168, 177, 191);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+}
