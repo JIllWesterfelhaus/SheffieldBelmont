@@ -5,4 +5,8 @@ body {
 .carousel-item {
     max-height: 10%;  
 }
+
+.text {
+    padding-top: 5%;
+}
      
