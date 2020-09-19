@@ -1,5 +1,5 @@
 body {
-    background-color: #481e23;
+    background-color: #3a0c11;
 }
 
 .carousel-item {
@@ -9,10 +9,10 @@ body {
 .text {
     padding-top: 5%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-     color: rgb(163, 194, 205)
+     color: rgb(190, 225, 237)
 }
  h1 { 
-    color: rgb(223, 197, 158)
+    color: rgb(220, 181, 122)
  }
 
  h2 {
