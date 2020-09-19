@@ -8,8 +8,14 @@ body {
 
 .text {
     padding-top: 5%;
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-     
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: rgb(163, 194, 205)
 }
-     
+ h1 { 
+    color: rgb(223, 197, 158)
+ }
+
+ h2 {
+     color: white
+ }
+
