@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(218, 224, 233);
+    background-color: #463d3e;
 }
 
 .carousel-item {
@@ -8,5 +8,6 @@ body {
 
 .text {
     padding-top: 5%;
+    color: white;
 }
      
