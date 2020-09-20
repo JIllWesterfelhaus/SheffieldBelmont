@@ -1,5 +1,7 @@
 body {
-    background-color: ivory;
+    background-image: url("./images/croissantsmall.jpg");
+    background-repeat: repeat;
+    background-color: ivory;  
 }
 
 .carousel-item {
