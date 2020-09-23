@@ -5,11 +5,7 @@ body {
 }
 
  
-.carousel-fade, .carousel-item, .carousel-item img  {
-    max-height: 100vh;
-    width: 50%;
-    margin: auto
-}
+ 
   
  
 
