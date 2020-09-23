@@ -4,30 +4,12 @@ body {
     background-color: ivory;  
 }
 
-.carousel-item {
-    max-height: 10%;  
-}
+ 
 
-.text {
-    padding-top: 5%;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-     color: black
-}
- h1 { 
-    color: black;
-    font-weight: bold
-    
- }
 
- h2 {
-     color: black;
-     font-weight: bold
- }
+ 
 
- .carousel {
-     display: "flex";
-     justify-content: "center"
- }
+  
 
  
 
