@@ -30,11 +30,6 @@ body {
      margin-bottom: 0%
  }
 
-@media screen and (max-width: 547 px) {
-    .image {
-        width: 250px;
-        height: 550px
-    }
-}
+ 
 
 
