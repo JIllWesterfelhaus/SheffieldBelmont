@@ -5,7 +5,9 @@ body {
 }
 
  
-
+.carousel-fade .carousel-item, .carousel-item img  {
+    max-height: 100vh;
+  }
 
  
 
