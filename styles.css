@@ -4,7 +4,6 @@ body {
     background-color: ivory;  
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital@1&display=swap');
 
 .header {
     text-align: center;
@@ -20,7 +19,7 @@ font-family: 'Times New Roman', Times, serif
   }
 
   .honey {
-      font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: 'Epilogue', sans-serif;
   }
 
 
