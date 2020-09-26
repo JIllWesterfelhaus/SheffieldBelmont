@@ -29,7 +29,10 @@ body {
   #carouselExampleFadeHome {
     width: 200%;
   }}
-
+ 
+  #carouselExampleFadeAbout {
+    margin-bottom:  20px
+  }
    
 
   
