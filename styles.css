@@ -25,8 +25,16 @@ body {
   }
 
 
- 
- 
+ @media only screen and (max-width: 600px) {
+  #carouselExampleFade {
+    width: 900px;
+  }}
+
+  @media only screen and (max-width: 300px) {
+    #carouselExampleFade {
+      width: 550px;
+ }}
+
   
  
 
