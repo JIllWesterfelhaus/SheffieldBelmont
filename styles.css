@@ -24,11 +24,6 @@ body {
     font-family: 'Caveat', cursive;
   }
 
-
- @media only screen and (max-width: 600px) {
-  #carouselExampleFadeHome {
-    width: 200%;
-  }}
  
   #carouselExampleFadeAbout {
     margin-bottom:  20px
