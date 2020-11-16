@@ -24,6 +24,4 @@ https://sheffieldbelmont.com
 ![aboutme page sheffieldbelmont](images/aboutme.png)
 
 
-## Credits
-
- All photographs are by Sheffield Belmont.
+ 
