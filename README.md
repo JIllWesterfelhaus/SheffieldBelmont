@@ -1,6 +1,6 @@
 # SheffieldBelmont
 
-This is a page created for Sheffield Belmont, a Chicago based performer.
+This is a web site created for Sheffield Belmont, a Chicago based performer.
 
 ## Motivation
 The purpose of this project is to engage Ms. Belmont with her audience and to showcase photos of Ms. Belmont.
