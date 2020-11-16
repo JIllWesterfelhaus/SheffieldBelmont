@@ -5,6 +5,9 @@ This is a page created for Sheffield Belmont, a Chicago based performer.
 ## Motivation
 The purpose of this project is to showcase photos of Ms. Belmont and engage with her audience. 
 
+## Responsibilities
+Responsible for all aspects of design and development:  design, coding, photography, background image. 
+
 ## Build Status
 This project is complete.
 
