@@ -18,7 +18,7 @@ This project is in the public domain per https://unlicense.org/.
 
 sheffieldbelmont.com
 
-![aboutme page sheffieldbelmont](./client/public/images/aboutme.png)
+![aboutme page sheffieldbelmont](images/aboutme.png)
 
 
 ## Credits
