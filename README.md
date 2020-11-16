@@ -17,7 +17,7 @@ This project was built with HTML, CSS, and Bootstrap.
 ## License
 This project is in the public domain per https://unlicense.org/.  
 
-## URL of deployed portfolio
+## URL of deployed website
 
 https://sheffieldbelmont.com
 
